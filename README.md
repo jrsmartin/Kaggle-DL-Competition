@@ -3,5 +3,3 @@ Slides describing submission to Kaggle deep learning competition that was focuse
 
 Tech stack: PyTorch & torch, torchvision, albumentations, pandas, sk-image, pydicom and numpy packages, Nvidia P100 GPU
 
-Competition: https://www.kaggle.com/competitions/rsna-2022-cervical-spine-fracture-detection
-
